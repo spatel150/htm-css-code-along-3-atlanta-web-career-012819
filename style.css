@@ -18,5 +18,5 @@ figcaption{
 .milk-text{
   font: bold 2.6em 'Roboto', sans-serif;
   color: white;
-  text-shadow: 0 2px 3px;
+  text-shadow: 0 2px 3px #000;
 }
